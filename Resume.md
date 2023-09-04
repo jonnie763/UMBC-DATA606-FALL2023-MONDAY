@@ -54,7 +54,7 @@ Project Requirement for DATA Science 601. Examined data in sports analytics and 
 
 Conduct Skilled Based Training using principles of applied behavioral analysis.
 
-- Collect data on student behavior and implement reduction plans and modify student lesson plans using data and through teacher instruction.
+Collect data on student behavior and implement reduction plans and modify student lesson plans using data and through teacher instruction.
 
 Fill out ABC forms and generally analyze student behavior. Conduct group lessons and conduct teaching lessons on a one-on-one basis.
 
