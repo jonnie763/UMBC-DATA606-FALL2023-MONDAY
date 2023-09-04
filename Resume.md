@@ -2,7 +2,7 @@
 
 ## Image to profile picture 
 
-![Javatpoint]( https://pasteboard.co/bmMyNxwfMagh.png)  https://pasteboard.co/bmMyNxwfMagh.png
+![Javatpoint](https://pasteboard.co/bmMyNxwfMagh.png)
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
