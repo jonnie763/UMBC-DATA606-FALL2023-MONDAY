@@ -1,6 +1,6 @@
 # UMBC-DATA606-FALL2023-MONDAY
 
-![image info](./pictures/Jonathan Santiago Rius image.png)
+![image info](./"C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png"/)
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
