@@ -2,7 +2,8 @@
 
 ## Image to profile picture 
 
-![Javatpoint](My Computer/Downloads/Javatpoint.png) 
+![Markdown symbol](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
