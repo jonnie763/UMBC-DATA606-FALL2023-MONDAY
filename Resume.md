@@ -2,7 +2,7 @@
 
 ## Image to profile picture 
 
-![Markmbol](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+![Markmbol](https://pasteboard.co/bmMyNxwfMagh.png)
 
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
