@@ -2,7 +2,7 @@
 
 ## Image to profile picture 
 
-![alt text for screen readers]("C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png)
+![alt text for screen readers](/jonni/Downloads/Screenshot 2023-09-02 222259.png)
 
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
