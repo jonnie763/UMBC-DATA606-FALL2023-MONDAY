@@ -6,8 +6,6 @@
 
 ![Alt text]("C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png")
 
-![Sonny and Mariel high fiving.]((https://imgflip.com/gif/7y0ukw)
-
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
 jonnie763@hotmail.com | https://www.linkedin.com/in/jonathan-rius-17612b207/  | https://github.com/jonnie763
