@@ -4,10 +4,6 @@
 
 ![Alt text](https://media.licdn.com/dms/image/C5603AQH0cA0-XAkWzQ/profile-displayphoto-shrink_800_800/0/1656474072043?e=1699488000&v=beta&t=RHU1YKYW251O1D4mpbkc6UnE_vbz6iKsrScFilcnPlg)
 
-![Alt text]("C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png")
-
-
-
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
 jonnie763@hotmail.com | https://www.linkedin.com/in/jonathan-rius-17612b207/  | https://github.com/jonnie763
