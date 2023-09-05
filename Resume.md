@@ -6,7 +6,7 @@
 
 ![Alt text]("C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png")
 
-![Sonny and Mariel high fiving.]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://imgflip.com/gif/7y0ukw)
+![Sonny and Mariel high fiving.]((https://imgflip.com/gif/7y0ukw)
 
 19025 Steeple Place, Germantown, MD  20874| 240-855-7806
 
