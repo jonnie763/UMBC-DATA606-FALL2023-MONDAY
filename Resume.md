@@ -2,7 +2,7 @@
 
 ## Image to profile picture 
 
-![Alt text] (https://media.licdn.com/dms/image/C5603AQH0cA0-XAkWzQ/profile-displayphoto-shrink_200_200/0/1656474072043?e=1699488000&v=beta&t=YRGfhYA_fZuyy-DHpPniDjfcbmhIcoOlc-uTw1llDq8)
+![Alt text](https://media.licdn.com/dms/image/C5603AQH0cA0-XAkWzQ/profile-displayphoto-shrink_800_800/0/1656474072043?e=1699488000&v=beta&t=RHU1YKYW251O1D4mpbkc6UnE_vbz6iKsrScFilcnPlg)
 
 ![Alt text]("C:\Users\jonni\Downloads\Screenshot 2023-09-02 222259.png")
 
